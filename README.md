@@ -1,13 +1,12 @@
-# Night Owl Protect Documentation
+# Paint Tool SAI 2 Documentation
 
-[![Documentation Status](https://readthedocs.org/projects/night-owl-protect/badge/?version=latest)](https://night-owl-protect.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/painttoolsai/badge/?version=latest)](https://painttoolsai.readthedocs.io/en/latest/?badge=latest)
 
-Official documentation for Night Owl Protect - the central mobile app and web portal for managing Night Owl Security Products.
-
+Official documentation for Paint Tool SAI 2 - the central mobile app and web portal for managing Paint Tool SAI 2.
 
 ## 📚 Documentation
 
-View the live documentation at: [night-owl-protect.readthedocs.io](https://night-owl-protect.readthedocs.io)
+View the live documentation at: [painttoolsai.readthedocs.io](https://painttoolsai.readthedocs.io)
 
 ## 🛠️ Local Development
 
