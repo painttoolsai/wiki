@@ -4,6 +4,7 @@ Paint Tool SAI 2 Wiki
 
 .. meta::
    :msvalidate.01: 388518F3CBE17E08F39C566852B802B9
+   :google-site-verification: 5z5Q1T635ehVphytH4s8wLpIpXi3fciWp3cGHK7gZNg
 
 Welcome to the comprehensive documentation for **Paint Tool SAI 2**. This wiki is based on the latest technical preview data (2024-11-23) and includes critical updates for both Version 1 and Version 2 users.
 
@@ -17,6 +18,7 @@ Quick Navigation
    :maxdepth: 2
    :caption: Download & Setup
 
+   devices/paint-tool-sai-2-free-download
    getting-started/paint-tool-sai-2-technical-preview
    getting-started/sai-ver1-critical-bug-fix
    getting-started/installation-guide-no-installer
